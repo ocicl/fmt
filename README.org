@@ -1,0 +1,9 @@
+* fmt
+
+Extensible text formatting facility for Common Lisp
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/mmontone/fmt.git |
+| commit  | 91a29ec                                 |
+| systems | fmt fmt-time                            |
+|---------+-----------------------------------------|
